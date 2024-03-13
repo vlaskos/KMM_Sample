@@ -1,0 +1,12 @@
+com.example.kmm_app.test.shared-coordinatorlayout-1.0.0-0 /Users/macbook/.gradle/caches/transforms-3/130344c1ea409aa37fa0743665e66023/transformed/coordinatorlayout-1.0.0/res
+com.example.kmm_app.test.shared-annotation-experimental-1.1.0-1 /Users/macbook/.gradle/caches/transforms-3/384a6e48c18bdfd0afe3330cd03a9b76/transformed/annotation-experimental-1.1.0/res
+com.example.kmm_app.test.shared-core-1.6.0-2 /Users/macbook/.gradle/caches/transforms-3/6bdf3173f307c4728ee83d69ae35c34f/transformed/core-1.6.0/res
+com.example.kmm_app.test.shared-play-services-ads-lite-23.0.0-3 /Users/macbook/.gradle/caches/transforms-3/942d7ad0528dea43d98a924db0e7e2c4/transformed/play-services-ads-lite-23.0.0/res
+com.example.kmm_app.test.shared-play-services-basement-18.2.0-4 /Users/macbook/.gradle/caches/transforms-3/9791513ae8f3c559a46a171a33106cbd/transformed/play-services-basement-18.2.0/res
+com.example.kmm_app.test.shared-startup-runtime-1.1.1-5 /Users/macbook/.gradle/caches/transforms-3/a185195c6fc7fdf056dccdc540f75037/transformed/startup-runtime-1.1.1/res
+com.example.kmm_app.test.shared-work-runtime-2.7.0-6 /Users/macbook/.gradle/caches/transforms-3/da58ea5f60394bf99a3921e820d075e8/transformed/work-runtime-2.7.0/res
+com.example.kmm_app.test.shared-androidTest-7 /Users/macbook/Projects/KMM_App/shared/build/generated/res/resValues/androidTest/debug
+com.example.kmm_app.test.shared-mergeDebugAndroidTestResources-8 /Users/macbook/Projects/KMM_App/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.kmm_app.test.shared-mergeDebugAndroidTestResources-9 /Users/macbook/Projects/KMM_App/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.kmm_app.test.shared-debugAndroidTest-10 /Users/macbook/Projects/KMM_App/shared/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.example.kmm_app.test.shared-debug-11 /Users/macbook/Projects/KMM_App/shared/build/intermediates/packaged_res/debug/packageDebugResources
