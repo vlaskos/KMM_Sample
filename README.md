@@ -16,9 +16,9 @@ Research and exploration of basic KMM capabilities for iOS.
 
  Android App:
 - Screen with user list and user details screen
-- <img src="https://github.com/vlaskos/KMM_Sample/assets/11546672/a7ca819b-dc2b-453d-a35a-711905199203" width=20%>
-- <img src="https://github.com/vlaskos/KMM_Sample/assets/11546672/a90f5e58-820e-4822-8718-79ac03aadd74" width=20%>
+<img src="https://github.com/vlaskos/KMM_Sample/assets/11546672/a7ca819b-dc2b-453d-a35a-711905199203" width=20%>
+<img src="https://github.com/vlaskos/KMM_Sample/assets/11546672/a90f5e58-820e-4822-8718-79ac03aadd74" width=20%>
 
 - Offline mode
-- <img src="https://github.com/vlaskos/KMM_Sample/assets/11546672/f857c2a9-92ce-487e-802a-3b0c5964aa99" width=20%>
-- <img src="https://github.com/vlaskos/KMM_Sample/assets/11546672/cd2d23ed-f226-429a-9f9f-8062a171d3fd" width=20%>
+<img src="https://github.com/vlaskos/KMM_Sample/assets/11546672/f857c2a9-92ce-487e-802a-3b0c5964aa99" width=20%>
+<img src="https://github.com/vlaskos/KMM_Sample/assets/11546672/cd2d23ed-f226-429a-9f9f-8062a171d3fd" width=20%>
