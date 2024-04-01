@@ -4,6 +4,7 @@ Research and exploration of basic KMM capabilities for iOS.
   - networking with ktor and serialisation (including coroutines)
   - caching data with realm database
   - dependancy managing with gradle
+  - SwiftUI, Async\await, Jetpack compose, Coroutines
 
  iOS App:
 - Screen with user list and user details screen
