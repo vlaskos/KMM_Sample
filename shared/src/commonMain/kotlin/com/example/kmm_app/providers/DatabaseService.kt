@@ -19,7 +19,10 @@ class DatabaseServiceImp : DatabaseService {
     override suspend fun save(users: List<GitUser>) {
         cleanRealm()
         val cacheUsers = users.map { user ->
-            CacheUser(user.id, user.url, user.login, user.avatarURL)
+            CacheUser(user.id,
+                login = user.login,
+                avatarURL = user.avatarURL,
+                url = user.url)
         }
         realm.write {
             cacheUsers.map { copyToRealm(it) }
@@ -28,7 +31,12 @@ class DatabaseServiceImp : DatabaseService {
 
     override suspend fun fetchUsers(): List<GitUser> {
         return realm.query<CacheUser>().find().map { user: CacheUser ->
-            GitUser(user.id, user.url, user.login, user.avatarURL)
+            GitUser(
+                user.id,
+                url = user.url,
+                login = user.login,
+                avatarURL = user.avatarURL
+            )
         }
     }
 

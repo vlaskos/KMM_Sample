@@ -56,6 +56,3 @@ android {
         targetCompatibility = JavaVersion.VERSION_1_8
     }
 }
-dependencies {
-    implementation(libs.play.services.ads.lite)
-}

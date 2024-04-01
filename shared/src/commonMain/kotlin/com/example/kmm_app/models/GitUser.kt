@@ -13,3 +13,4 @@ data class GitUser (
     @SerialName("avatar_url")
     var avatarURL: String
 )
+
